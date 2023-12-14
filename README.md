@@ -21,7 +21,7 @@ Crafted with precision and powered by:
 
 - **Excel:** A pivotal tool for data cleaning and initial processing, ensuring data integrity.
 - **Power BI:** The central hub for crafting a visually compelling dashboard, featuring KPIs, area charts, and column charts.
-- 
+  
 ## Charts Used
 
 Embark on a visual journey with carefully crafted insights:
